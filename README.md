@@ -1,2 +1,2 @@
-# acotigno.github.io
+# acotigno
 Portfolio for SI 339
